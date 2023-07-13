@@ -1,1 +1,1 @@
-alert('hello,kasuga!');
+alert('welcome!');
