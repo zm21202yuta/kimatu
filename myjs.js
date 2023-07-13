@@ -1,2 +1,2 @@
-alert('ようこそ！');
+alert('welcome!');
 
